@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Ce que j'aurais voulu implémenter avec plus de temps
+
+-Scroll bar qui n'apparait qu'au hover\
+-Hover style de chaque message\
+-Système d'horodatage pour les messages passés\
+-Système de réponse à un message\
+-Garder focus de l'input quand on choisit un smiley
+-Refacto du code, notamment prop drillings remplacés par un contexte
+
+
 ## Available Scripts
 
 In the project directory, you can run:
